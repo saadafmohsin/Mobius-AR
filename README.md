@@ -1,6 +1,7 @@
 # Mobius-AR
 Mobius-AR is a project created in Snapchat's Lens Studio that manipulates a mobius wheel object triggered by the use of our 5 senses.
 
+Our experience attempts to intrigue participants with what looks like an inanimate object, but adopts the attributes of something animate such as a stray wild animal when approached by a human.
 
 
 ## Resources
